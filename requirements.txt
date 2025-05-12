@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+loguru
+prometheus_fastapi_instrumentator
+torch  # Required by transformers
